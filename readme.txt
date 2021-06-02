@@ -1,12 +1,12 @@
-=== wec360 ===
-Contributors: leon
+=== wec360° | The real estate presentation platform ===
+Contributors: wec360
 Tags: wec360, oembed, embed, presentation
 Requires at least: 4.7
 Tested up to: 5.4
-Stable tag: 4.3
+Stable tag: 1.0
 Requires PHP: 7.0
-License: MIT or later
-License URI: https://opensource.org/licenses/MIT
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 
 Makes it easy to embed the wec360° presentation platform into WordPress.
@@ -18,6 +18,11 @@ Adds wec360° as an oembed provider for wordpress so you easily can embed views 
 You can try it with our demo project
 
 `https://view.wec360.com/demo/demo/overview`
+
+== Installation ==
+
+1. Upload 'wec360' zip file to the '/wp-content/plugins/' directory
+2. Activate the wec360 plugin through the 'Plugins' menu in WordPress
 
 == Screenshots ==
 
