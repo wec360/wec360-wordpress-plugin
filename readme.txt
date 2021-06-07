@@ -8,16 +8,22 @@ Requires PHP: 7.0
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-
 Makes it easy to embed the wec360° presentation platform into WordPress.
 
 == Description ==
 
 Adds wec360° as an oembed provider for wordpress so you easily can embed views using the embed feature in WordPress.
 
+wec360° is a real estate presentation platform, specializing in creating a rich interactive experience of your real estate project.
+https://www.wec360.com
+
 You can try it with our demo project
 
 `https://view.wec360.com/demo/demo/overview`
+
+
+Privacy Policy
+https://www.wec360.com/en/privacy-policy/
 
 == Installation ==
 
